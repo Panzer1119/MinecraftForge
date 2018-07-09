@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/panzer1119/minecraftforge/badge)](https://www.codefactor.io/repository/github/panzer1119/minecraftforge)
+
 # How to install Forge: For Players
 
 Go to [the Forge website](http://files.minecraftforge.net)
